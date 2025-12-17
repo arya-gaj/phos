@@ -1,1 +1,1 @@
-# Phos | A Framework for Trustable Generation
+# Clubcard Points Bandit Labs
